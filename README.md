@@ -5,8 +5,8 @@ These themes are quick edits and only tested with C#. If there are any issues, m
 
 Requires the Color Theme Editor extension https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.VisualStudio2017ColorThemeEditor#overview
 
-<img src="https://raw.githubusercontent.com/j-fan/vs-2017-themes/master/Capture3.JPG" width="800px" />
-<img src="https://raw.githubusercontent.com/j-fan/vs-2017-themes/master/Capture4.JPG" width="800px" />
-<img src="https://raw.githubusercontent.com/j-fan/vs-2017-themes/master/Capture.JPG" width="800px" />
-<img src="https://raw.githubusercontent.com/j-fan/vs-2017-themes/master/Capture2.JPG" width="800px" />
+<img src="https://raw.githubusercontent.com/j-fan/vs-2017-material-themes/master/Capture3.JPG" width="800px" />
+<img src="https://raw.githubusercontent.com/j-fan/vs-2017-material-themes/master/Capture4.JPG" width="800px" />
+<img src="https://raw.githubusercontent.com/j-fan/vs-2017-material-themes/master/Capture.JPG" width="800px" />
+<img src="https://raw.githubusercontent.com/j-fan/vs-2017-material-themes/master/Capture2.JPG" width="800px" />
 
