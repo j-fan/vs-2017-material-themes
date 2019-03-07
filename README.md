@@ -1,4 +1,4 @@
-# vs-2017-themes
+# vs-2017-material-themes
 Some variants of the Material theme: https://github.com/Microsoft/VS-ColorThemes/blob/master/VSColorThemes/Themes/MaterialDark.xml
 
 These themes are quick edits and only tested with C#. If there are any issues, make changes with the extension as you see fit.
