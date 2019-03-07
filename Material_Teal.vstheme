@@ -3574,7 +3574,7 @@
         <Background Type="CT_RAW" Source="FF999999" />
       </Color>
       <Color Name="StartPageTextHeadingMouseOver">
-        <Background Type="CT_RAW" Source="FF55AAFF" />
+        <Background Type="CT_RAW" Source="FF55E3FF" />
       </Color>
       <Color Name="StartPageTextHeadingSelected">
         <Background Type="CT_RAW" Source="FFF1F1F1" />
@@ -6529,7 +6529,7 @@
         <Background Type="CT_RAW" Source="FF333334" />
       </Color>
       <Color Name="StartPageHeadingText">
-        <Foreground Type="CT_RAW" Source="FF84CEFF" />
+        <Foreground Type="CT_RAW" Source="FF84F7FF" />
       </Color>
       <Color Name="StartPageListItem">
         <Foreground Type="CT_RAW" Source="FFF1F1F1" />
@@ -6576,7 +6576,7 @@
         <Background Type="CT_RAW" Source="FF3E3E40" />
       </Color>
       <Color Name="VideoRSSItemPressed">
-        <Background Type="CT_RAW" Source="FF33D6FF" />
+        <Background Type="CT_RAW" Source="FF33FFE4" />
       </Color>
       <Color Name="VideoRSSItemTitle">
         <Foreground Type="CT_RAW" Source="FFF1F1F1" />
@@ -6585,7 +6585,7 @@
         <Foreground Type="CT_RAW" Source="FF00EBFB" />
       </Color>
       <Color Name="VideoRSSItemTitlePressed">
-        <Foreground Type="CT_RAW" Source="FF88CCFE" />
+        <Foreground Type="CT_RAW" Source="FF88F3FE" />
       </Color>
       <Color Name="VideoRSSItemDuration">
         <Foreground Type="CT_RAW" Source="FFB7B9C5" />
@@ -6688,7 +6688,7 @@
         <Foreground Type="CT_RAW" Source="FF00EBFB" />
       </Color>
       <Color Name="DefaultBannerLinkHover">
-        <Foreground Type="CT_RAW" Source="FF88CCFE" />
+        <Foreground Type="CT_RAW" Source="FF88F3FE" />
       </Color>
       <Color Name="DefaultBannerLinkPressed">
         <Foreground Type="CT_RAW" Source="FF00EBFB" />
@@ -6700,7 +6700,7 @@
         <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="StartPageTitleText">
-        <Foreground Type="CT_RAW" Source="FF84CEFF" />
+        <Foreground Type="CT_RAW" Source="FF84F7FF" />
       </Color>
       <Color Name="StartPageExpander">
         <Background Type="CT_RAW" Source="FF4F4F53" />
