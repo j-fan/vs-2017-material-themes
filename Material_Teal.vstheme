@@ -1,5 +1,5 @@
 <Themes>
-  <Theme Name="Sublime Teal" GUID="{0e78c99b-b82e-46de-ba57-a6295b8410c7}">
+  <Theme Name="Material Teal" GUID="{0e78c99b-b82e-46de-ba57-a6295b8410c7}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF252526" />

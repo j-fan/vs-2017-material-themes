@@ -1,5 +1,5 @@
 <Themes>
-  <Theme Name="Sublime Orange" GUID="{ac99c7e4-378a-4c33-b8b9-a3cabb06e677}">
+  <Theme Name="Material Orange" GUID="{ac99c7e4-378a-4c33-b8b9-a3cabb06e677}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF252526" />

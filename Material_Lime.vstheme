@@ -1,5 +1,5 @@
 <Themes>
-  <Theme Name="Sublime Lime" GUID="{5876106d-7eca-4089-89e7-394ea985adae}">
+  <Theme Name="Material Lime" GUID="{5876106d-7eca-4089-89e7-394ea985adae}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF252526" />
