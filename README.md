@@ -1,7 +1,7 @@
 # vs-2017-themes
 Some variants of the Material theme: https://github.com/Microsoft/VS-ColorThemes/blob/master/VSColorThemes/Themes/MaterialDark.xml
 
-The themes were quick edits and I only tried it with C#. If there are any issues, make changes with the extension as you see fit.
+These themes are quick edits and only tested with C#. If there are any issues, make changes with the extension as you see fit.
 
 Requires the Color Theme Editor extension https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.VisualStudio2017ColorThemeEditor#overview
 
