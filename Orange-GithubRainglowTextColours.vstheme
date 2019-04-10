@@ -1934,8 +1934,8 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="ReSharper Parameter Name Hint">
-        <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FFCCCCDD" />
+        <Foreground Type="CT_RAW" Source="FF000000" />
       </Color>
       <Color Name="ReSharper Highlight">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -1982,7 +1982,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="ReSharper Matched Brace">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF0E4583" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="ReSharper Unmatched Brace">
@@ -8285,7 +8285,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Brace Matching (Rectangle)">
-        <Background Type="CT_RAW" Source="FF001A1A" />
+        <Background Type="CT_RAW" Source="FF0E4583" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Definition Window Background">
